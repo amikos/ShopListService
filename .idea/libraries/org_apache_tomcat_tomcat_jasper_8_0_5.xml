@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="org.apache.tomcat:tomcat-jasper:8.0.5" type="repository">
+    <properties maven-id="org.apache.tomcat:tomcat-jasper:8.0.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper/8.0.5/tomcat-jasper-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-servlet-api/8.0.5/tomcat-servlet-api-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-juli/8.0.5/tomcat-juli-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jsp-api/8.0.5/tomcat-jsp-api-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-el-api/8.0.5/tomcat-el-api-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/P20140317-1600/ecj-P20140317-1600.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-jasper-el/8.0.5/tomcat-jasper-el-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-api/8.0.5/tomcat-api-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util-scan/8.0.5/tomcat-util-scan-8.0.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/tomcat/tomcat-util/8.0.5/tomcat-util-8.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
